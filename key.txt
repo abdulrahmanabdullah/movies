@@ -1,0 +1,15 @@
+api key :
+2495fce449c638ba314cdb240b0ef5cb
+
+api link attribute:
+List = > http://api.themoviedb.org/3/list
+Trend = > http://api.themoviedb.org/3/trending/all/day/api_key OR
+http://api.themoviedb.org/3/trending/all/week/api_key  // to get weekly trending .
+image => https://image.tmdb.org/t/p/w500/image_url.jpg
+search => https://api.themoviedb.org/3/search/movie?api_key={api_key}&query=Jack+Reacher
+topRated => http://api.themoviedb.org/3/movie/top_rated?api_key=2495fce449c638ba314cdb240b0ef5cb
+videos => http://api.themoviedb.org/3/movie/movie_id/videos?api_key
+youtube api => get movie  id it's = key = "something " then pass it in this url
+https://www.youtube.com/watch?v= keyHere
+upComing =>https://api.themoviedb.org/3/movie/upcoming?api_key=2495fce449c638ba314cdb240b0ef5cb&language=en-US&page=1
+https://api.themoviedb.org/3/movie/popular?api_key=2495fce449c638ba314cdb240b0ef5cb&language=en-US&page=1

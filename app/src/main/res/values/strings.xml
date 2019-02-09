@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GetLastMovie</string>
+    <string name="slide_text_title">movie title</string>
+</resources>
