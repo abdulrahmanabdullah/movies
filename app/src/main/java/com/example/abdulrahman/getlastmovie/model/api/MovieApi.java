@@ -1,6 +1,6 @@
 package com.example.abdulrahman.getlastmovie.model.api;
 
-import com.example.abdulrahman.getlastmovie.model.data.ResponseBody;
+import com.example.abdulrahman.getlastmovie.model.networking.ResponseBody;
 
 import retrofit2.Call;
 import retrofit2.http.GET;

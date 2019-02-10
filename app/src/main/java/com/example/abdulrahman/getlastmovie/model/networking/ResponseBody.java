@@ -1,4 +1,4 @@
-package com.example.abdulrahman.getlastmovie.model.data;
+package com.example.abdulrahman.getlastmovie.model.networking;
 
 import java.util.List;
 import com.google.gson.annotations.SerializedName;
